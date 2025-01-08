@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Area | Project Description |
 |---|---|---|---|
-|🎯 [Target Case Study](https://github.com/aditya-shinde16/Target_Case_Study) | BigQuery,PowerBI | SQL, Data Analysis & Data Visualisation | Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil. |
+|🎯 [Target Case Study](https://github.com/sampath-kothapalli/ecommerce-sales-trends) | BigQuery,PowerBI | SQL, Data Analysis & Data Visualisation | Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the e-commerce market in Brazil. |
 
 # Python
 
