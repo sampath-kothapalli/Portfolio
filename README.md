@@ -26,6 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 # Tableau
+[Tableau Public Profile](https://public.tableau.com/app/profile/sai.sampath.kumar.kothapalli/vizzes)
 
 | Project Link | Tools | Area | Project Description |
 |---|---|---|---|
