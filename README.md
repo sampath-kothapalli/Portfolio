@@ -39,7 +39,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description |
 |---|---|---|
-
 |[Ecommerce vs Physical Stores](https://docs.google.com/document/d/1pPJp3X-Y3ORdtqok6M1MIAFdSvHcuGVerG017DMI7eY/edit?tab=t.0#heading=h.dkz3y1n9hjs5) | Market Research | Conducted a comparative analysis of online vs. offline business models, utilizing data from different industry reports and surveys to highlight key operational efficiencies, market reach, and customer engagement strategies, contributing novel insights into adaptability and innovation in e-commerce. |
 |[Ecommerce Subscription Business](https://docs.google.com/document/d/1nb89FuC9OQ3UakXx-8A2LNdZ6ulVNVy3fU4GfwWq6Xs/edit?tab=t.0#heading=h.dkz3y1n9hjs5) | Market Research | Designed a comprehensive research project examining the impact of customer-centric strategies on CLV and churn for subscription-based e-commerce businesses, employing advanced analytics to correlate marketing tactics with customer loyalty metrics along with challenges faced by the businesses. |
 |[Ecommerce Conversion Strategies](https://docs.google.com/document/d/1hhUl3_BHXBF6a4ONGYFGkUZyrD7MwzxubQqO4n6NPO4/edit?tab=t.0#heading=h.dkz3y1n9hjs5) | Market Research | Analyzed successful e-commerce strategies for optimizing conversion rates, focusing on data-driven user experience improvements, influencer marketing impact, and user-generated content, showcasing measurable outcomes in conversion rate uplifts, customer engagement, and loyalty program effectiveness. |
